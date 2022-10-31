@@ -1,1 +1,0 @@
-# mokee_device_nubia_nx595j

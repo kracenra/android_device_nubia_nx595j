@@ -1,0 +1,4 @@
+service goodix_script /vendor/bin/clean_finger.sh
+    class late_start
+    user root
+    oneshot

@@ -1,0 +1,2 @@
+require version-modem=2019-01-05 20:08:34
+require version-nubiaUI=NX595J_CNCommon_V3.19
